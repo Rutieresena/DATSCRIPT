@@ -6353,7 +6353,7 @@ function ler_cidades() {
     $("body").append(button);
 })();
 
-/*
+
 //-============================================ FUNÇAO LER CIDADES INDEPENDENTES===================
 
        (function() {
@@ -6460,7 +6460,7 @@ function ler_cidades() {
     window.addEventListener('load', addButton);
 })();
 
-  */
+  
                  //====================================================BOTAO PROCURAR BOLAS==================================================
                  
 
