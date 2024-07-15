@@ -6440,7 +6440,7 @@ function ler_cidades() {
     // Adiciona o botão ao carregar a página
     window.addEventListener('load', addButton);
 })();
-
+*/
   
                  //====================================================BOTAO PROCURAR BOLAS==================================================
                  
