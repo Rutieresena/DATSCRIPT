@@ -1,3 +1,22 @@
+// ==UserScript==
+// @name        💎 Diamantes Ataque Tools 5.0.1 _PT💎
+// @namespace   https://www.offboardbr.tk
+// @version     5.0.1
+// @description Script de automatização I.O.
+// @match       *.imperiaonline.org/imperia/game_v6/game/village.php*
+// @match       *.gameofemperors.com/imperia/game_v6/game/village.php*
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=imperiaonline.org
+// @copyright   2016+, jmota.pc / Suporte e vendas Rutiere
+// @require     https://code.jquery.com/jquery-latest.js
+// @require     https://code.jquery.com/jquery-3.6.3.min.js
+// @require     https://code.jquery.com/ui/1.13.1/jquery-ui.min.js
+// @grant	    GM_registerMenuCommand
+// @grant	    GM_setValue
+// @grant	    GM_getValue
+// ==/UserScript==
+/* globals jQuery, $, waitForKeyElements */
+
+//----------------------------------------------------------------------------------------------------------------- */
 var login = ''
 var $ = window.jQuery;
 var IdProfile = playerName
